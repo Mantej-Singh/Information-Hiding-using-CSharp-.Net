@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="http://s19.postimg.org/vg0dp27cj/Pampa_ds160.png">
+</p>
+
 # Information Hiding using C#.Net
 ## Steganography Application
 
